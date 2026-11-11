@@ -3,7 +3,7 @@
 Repositorio **público** solo para instaladores firmados y `latest.json` del auto-updater.
 
 - Endpoint: https://github.com/Natthan89/treasure-desktop/releases/latest/download/latest.json
-- El código fuente vive en el proyecto local SafeInClone / Treasure.
+- El código fuente vive en el proyecto local Treasure.
 
 Publicar desde el proyecto:
 ```
